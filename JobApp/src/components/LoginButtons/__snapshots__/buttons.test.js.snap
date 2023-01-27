@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Buttons /> renders correctly 1`] = `
+<RCTSafeAreaView>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#fff",
+        "borderColor": "#212121",
+        "borderRadius": 20,
+        "borderWidth": 1.4,
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginHorizontal": 5,
+        "marginTop": 20,
+        "opacity": 1,
+        "paddingHorizontal": 50,
+        "paddingVertical": 8,
+      }
+    }
+    testID="login-button-title"
+  >
+    <Text
+      style={
+        {
+          "color": "#212121",
+          "fontSize": 16,
+          "fontWeight": "bold",
+        }
+      }
+    />
+  </View>
+</RCTSafeAreaView>
+`;
